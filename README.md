@@ -13,6 +13,7 @@ Pluralsight Courses on Azure Bot
 Youtube
 --------
 1.https://www.youtube.com/watch?v=-FHc_lZ6jJY
+
 2.https://www.youtube.com/watch?v=Bp33vjtE0cw
 
 QnA MakerService
