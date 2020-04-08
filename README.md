@@ -12,25 +12,26 @@ Pluralsight Courses on Azure Bot
 
 Youtube
 --------
-https://www.youtube.com/watch?v=-FHc_lZ6jJY
-https://www.youtube.com/watch?v=Bp33vjtE0cw
+1.https://www.youtube.com/watch?v=-FHc_lZ6jJY
+2.https://www.youtube.com/watch?v=Bp33vjtE0cw
 
 QnA MakerService
 ----------
 QnA: https://www.qnamaker.ai/
-knowledge base content type you can add: https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/concepts/content-types
+knowledge base content types you can add: https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/concepts/content-types
 
 Azure Bot Service
 ------------------
-conversation basics: https://docs.microsoft.com/en-us/microsoftteams/platform/bots/how-to/conversations/conversation-basics?tabs=dotnet
 
 Bot Service basics: https://docs.microsoft.com/en-us/azure/bot-service/bot-service-overview-introduction?view=azure-bot-service-4.0
 
+Bot Key Scenarios: https://github.com/Microsoft/AzureBotServices-scenarios
+
 Bot Quick-Start: https://docs.microsoft.com/en-us/azure/bot-service/abs-quickstart?view=azure-bot-service-4.0
 
-Bot Channels: https://docs.microsoft.com/en-us/azure/bot-service/bot-service-manage-channels?view=azure-bot-service-4.0
+conversation basics: https://docs.microsoft.com/en-us/microsoftteams/platform/bots/how-to/conversations/conversation-basics?tabs=dotnet
 
-Bot Key Scenarios: https://github.com/Microsoft/AzureBotServices-scenarios
+Bot Channels: https://docs.microsoft.com/en-us/azure/bot-service/bot-service-manage-channels?view=azure-bot-service-4.0
 
 Follow-up Prompts: https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/multiturn-conversation
 
