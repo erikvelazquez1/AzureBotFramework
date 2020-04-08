@@ -48,8 +48,11 @@ bot analytics: https://blog.botframework.com/2019/03/21/bot-analytics-behind-the
 LUIS
 ----
 https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-luis?view=azure-bot-service-4.0
+
 https://docs.microsoft.com/en-us/azure/cognitive-services/LUIS/howto-add-prebuilt-models
+
 https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-howto-v4-luis?view=azure-bot-service-4.0&tabs=csharp
+
 https://app.pluralsight.com/course-player?clipId=002dcd6b-42ab-46fc-82c5-b90984d13618
 
 
